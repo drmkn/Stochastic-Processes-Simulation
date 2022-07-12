@@ -155,17 +155,7 @@ class Simulations:
         plt.close()
         return KJD
         
-run = Simulations(N=1000, paths=5,S_0=50)
-mu,sigma,lamda,m,delta,p,neta_1,neta_2 = (0.02,0.1,3,0,0.05,0.5,20,20)
-np.random.seed(9)
-#run.bm_paths()
-#print(run.get_bm_array())
-#run.gbm_paths(mu, sigma)
-#print(run.get_gbm_array(mu, sigma))
-#run.mjd_paths(mu, sigma, lamda, m, delta)
-#print(run.get_mjd_array(mu, sigma, lamda, m, delta))
-#run.kjd_paths(mu, sigma, lamda, p, neta_1, neta_2)
-#print(run.get_kjd_array(mu, sigma, lamda, p, neta_1, neta_2))        
+       
         
    
         
