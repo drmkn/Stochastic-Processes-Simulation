@@ -1,2 +1,2 @@
-# Thesis
-Sem 10
+# Simulation COde
+Code for simulating sample paths of Brownian Motion, Geometric Brownian Motion and Jump Diffusion Models (Merton and Kou)
